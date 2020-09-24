@@ -1,2 +1,3 @@
 # Nac1742.github.io
-namwhan page
+print("namwhan page")
+print("namwhan ")
